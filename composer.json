@@ -1,0 +1,22 @@
+{
+    "name": "sergey00708/builder",
+    "description": "Builder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sergey00708\\Builder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "Fenix00708@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "aigletter/contracts": "^1.0",
+      "ext-pdo": "*"
+    }
+}
